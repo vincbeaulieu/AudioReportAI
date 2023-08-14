@@ -1,5 +1,13 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+.releases/
+.idea/
+.git/
+.archives/
+.resources/
+.pretrained_models/
+
+
 *.py[cod]
 *$py.class
 
