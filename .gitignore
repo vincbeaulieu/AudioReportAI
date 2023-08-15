@@ -6,6 +6,7 @@ __pycache__/
 .archives/
 .resources/
 .pretrained_models/
+.code/token.py
 
 
 *.py[cod]
