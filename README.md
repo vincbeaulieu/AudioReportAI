@@ -7,12 +7,10 @@
 Automated Report Generation: Leverage GPT-based models for dynamic and accurate report creation.  
 Integrated Workflows: Seamlessly integrate a variety of open-source models to optimize the drafting process.  
 Diverse Model Support: Support for Meta’s LLaMa, Facebook/bart-large-cnn, OpenAI GPT, OpenAI Whisper, Hugging GPT, Hugging Face, GPT-J, and more.  
-Tech Stack: Primarily built on Python, utilizing libraries and frameworks such as scikit-learn, tensorflow, pandas, matplotlib, and numpy.  
-  
-Join us in revolutionizing report automation, bridging the gap between engineering insights and business processes!  
+Tech Stack: Primarily built on Python, utilizing libraries and frameworks such as scikit-learn, tensorflow, pandas, matplotlib, and numpy.   
 
 ### Funding  
-You can support this endeavour, and invest in a future where reports are not just automated but are intelligent, relevant, and dynamic!  
+🚀 Propel the future of smart reporting! Support AutoReportAI on Patreon and be a catalyst in the AI revolution. Every bit counts towards a smarter tomorrow.
   
 **patreon**: [vincbeaulieu](https://www.patreon.com/vincbeaulieu)  
 **ko_fi**: [vincbeaulieu](https://ko-fi.com/vincbeaulieu)
