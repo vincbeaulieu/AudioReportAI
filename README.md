@@ -11,3 +11,7 @@ Tech Stack: Primarily built on Python, utilizing libraries and frameworks such a
   
 Join us in revolutionizing report automation, bridging the gap between engineering insights and business processes!  
 
+### Funding
+You can support this endeavour, and invest in a future where reports are not just automated but are intelligent, relevant, and dynamic!
+patreon: [vincbeaulieu](https://www.patreon.com/vincbeaulieu)
+ko_fi: [vincbeaulieu](https://ko-fi.com/vincbeaulieu)https://ko-fi.com/vincbeaulieu
