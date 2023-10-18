@@ -13,6 +13,5 @@ Join us in revolutionizing report automation, bridging the gap between engineeri
 
 ### Funding  
 You can support this endeavour, and invest in a future where reports are not just automated but are intelligent, relevant, and dynamic!  
-patreon: [vincbeaulieu](https://www.patreon.com/vincbeaulieu)  
-ko_fi: [vincbeaulieu](https://ko-fi.com/vincbeaulieu)
-  
+**patreon**: [vincbeaulieu](https://www.patreon.com/vincbeaulieu)  
+**ko_fi**: [vincbeaulieu](https://ko-fi.com/vincbeaulieu)
