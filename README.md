@@ -19,4 +19,4 @@ Harness the power of advanced language processing to transcribe, condense, and s
 🚀 Propel the future of smart audio transcription and summarization! Support the development of AudioReportAI and be a catalyst in the AI revolution. Every bit counts towards a smarter tomorrow. Your contribution will help accelerate research, foster innovations, and ensure the continuous enhancement of this project!
   
 ❤️ **Support this project on Patreon:** [vincbeaulieu](https://www.patreon.com/vincbeaulieu)  
-☕ **Support this project on Ko-Fi:** : [vincbeaulieu](https://ko-fi.com/vincbeaulieu)
+☕ **Support this project on Ko-Fi:** [vincbeaulieu](https://ko-fi.com/vincbeaulieu)
