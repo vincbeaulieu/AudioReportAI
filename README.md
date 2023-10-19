@@ -1,6 +1,6 @@
 # AudioReportAI  
 
-Harness the power of advanced natural language processing to transcribe and condense lengthy audio recordings from group meetings, classes, webinars, movies, YouTube videos, and much more! This repository offers an open-source solution for effectively converting extensive audio content into concise and informative textual summaries.
+Harness the power of advanced language processing to transcribe and condense lengthy audio recordings from group meetings, classes, webinars, movies, YouTube videos, and much more! This repository offers an open-source solution for effectively converting extensive audio content into concise and informative textual summaries.
   
 ### AudioReportAI: Automated Audio Transcription & Summarization
 
