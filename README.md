@@ -25,7 +25,7 @@ Place your desired video or audio file into the ***"input/"*** directory.
 If you haven't already, create a Python virtual environment:  
 `python3.9.7 -m venv .venv`  
   
-3. 🔋 **Activate the Environment:**  
+3. 🌱 **Activate the Environment:**  
 To activate your virtual environment:  
 `source .venv/bin/activate`  
   
