@@ -9,7 +9,7 @@ Harness the power of advanced language processing to transcribe, condense, and s
 ### Features:  
   
 * 🎙️ **Swift Audio Transcription:**
-  * Efficiently convert any audio content into a clear and accurate transcript.
+  Efficiently convert any audio content into a clear and accurate transcript.
     
 * 🗂️ **Smart Summarization:**
   Transform detailed transcripts into compact summaries, highlighting only the essential information.
