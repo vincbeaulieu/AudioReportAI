@@ -29,23 +29,28 @@ Harness the power of advanced language processing to transcribe, condense, and s
 
 ## 🚀 Getting Started: Execution Guide
 Follow these easy steps to get AudioReportAI up and running:
+  
+1. 🗺️ **Navigate to the Project Directory:**  
+After cloning the repository, navigate to the AudioReportAI directory:
+`cd path/to/AudioReportAI`
+*Replace "path/to/AudioReportAI" with the actual path to the cloned repository on your machine.*
 
-1. 📁 **Prepare Your Files:**  
+2. 📁 **Prepare Your Files:**  
 Place your desired video or audio file into the ***"input/"*** directory.  
   
-2. 🌍 **Set Up Virtual Environment:**  
+3. 🌍 **Set Up Virtual Environment:**  
 If you haven't already, create a Python virtual environment:  
 `python3.9.7 -m venv .venv`  
   
-3. 🌱 **Activate the Environment:**  
+4. 🌱 **Activate the Environment:**  
 To activate your virtual environment:  
 `source .venv/bin/activate`  
   
-4. 🔧 **Install Dependencies:**  
+5. 🔧 **Install Dependencies:**  
 Ensure you've installed all necessary packages:  
 `pip install -r requirements.txt`  
   
-5. 🎉 **Run the Program:**   
+6. 🎉 **Run the Program:**   
 Now, execute the main code:  
 `python -m code.main`  
     
