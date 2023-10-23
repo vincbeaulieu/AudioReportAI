@@ -31,7 +31,7 @@ Harness the power of advanced language processing to transcribe, condense, and s
 Follow these easy steps to get AudioReportAI up and running:
   
 1. 📍 **Navigate to the Project Directory:**  
-After cloning the repository, navigate to the AudioReportAI directory:  
+After cloning the repository, open a terminal and navigate to the AudioReportAI directory:  
 `cd path/to/AudioReportAI`  
 *<sub>\* Replace "path/to/AudioReportAI" with the actual path to the cloned repository on your machine.</sub>*  
   
