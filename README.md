@@ -8,13 +8,25 @@ Harness the power of advanced language processing to transcribe, condense, and s
   
 ### Features:  
   
-* 🎙️ **Swift Audio Transcription:** Efficiently convert any audio content into a clear and accurate transcript.  
-* 🗂️ **Smart Summarization:** Transform detailed transcripts into compact summaries, highlighting only the essential information.  
-* 🎬 **Diverse Audio Support:** Suitable for meetings, class recordings, webinars, movies, YouTube videos, and much more.  
-* 🔗 **Integrated Workflows:** Seamlessly integrate with a range of open-source models to optimize the transcription and summarization processes.  
-* 🧠 **Diverse Model Support:** Support for Meta’s LLaMa, Facebook/bart-large-cnn, OpenAI GPT, OpenAI Whisper, Hugging GPT, Hugging Face, GPT-J, and much more!  
-* 🛠️ **Tech Stack:** Primarily built on Python, utilizing libraries and frameworks such as scikit-learn, tensorflow, pandas, matplotlib, and numpy.  
-  
+* 🎙️ **Swift Audio Transcription:**
+  Efficiently convert any audio content into a clear and accurate transcript.
+    
+* 🗂️ **Smart Summarization:**
+  Transform detailed transcripts into compact summaries, highlighting only the essential information.
+    
+* 🎬 **Diverse Audio Support:**
+  Suitable for meetings, class recordings, webinars, movies, YouTube videos, and much more.
+    
+* 🔗 **Integrated Workflows:**
+  Seamlessly integrate with a range of open-source models to optimize the transcription and summarization processes.
+    
+* 🧠 **Diverse Model Support:**
+  Support for Meta’s LLaMa, Facebook/bart-large-cnn, OpenAI GPT, OpenAI Whisper, Hugging GPT, Hugging Face, GPT-J, and much more!
+    
+* 🛠️ **Tech Stack:**
+  Primarily built on Python, utilizing libraries and frameworks such as scikit-learn, tensorflow, pandas, matplotlib, and numpy.
+
+
 ## 🚀 Getting Started: Execution Guide
 Follow these easy steps to get AudioReportAI up and running:
 
