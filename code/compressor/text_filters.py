@@ -85,13 +85,8 @@ def segment_filter(transcript, segmentation_type=SegmentationType.SENTENCES, use
 
 
 def gratitude_filter(transcript=None):
-    # TODO: Filter out useless sentences from Useless_sentences.txt
-
-    # Define gratitude keywords
-    # unessential_keywords = {'thank', 'thanks', 'thankful', 'appreciate', 'appreciation', 'grateful', 'gratitude'}
-
-    # Define unessential keywords # TODO: Test this line
-    with open("Useless_sentences.txt", 'r') as file:
+    # Define unessential keywords
+    with open("code/compressor/useless_sentences.txt", 'r') as file:
         unessential_keywords = {line.strip() for line in file}
 
     # Evaluate if sentence is gratitude type

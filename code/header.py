@@ -31,8 +31,17 @@ class Header:
         self.source_file = source_file
         source_name = os.path.splitext(source_file)[0]
 
-        # Define the main directory/path
-        work_dir     = f"work/{source_name}"
+        # Define the main output directory
+        work_dir = f"work/{source_name}"
+        # code_dir = "code/"
+
+        # Look if there is already and existing one, rename if needed
+        i = 2
+        while os.path.exists(work_dir):
+            work_dir = f"work/{source_name} {i}"
+            i += 1
+
+        # Define the other directories and paths
         process_dir  = f"{work_dir}/.process"
         input_path   = f"{input_dir}/{source_file}"
         self.source_path  = f"{work_dir}/{source_file}"
@@ -57,7 +66,8 @@ class Header:
                 'output_path' : f'{work_dir}/transcript.txt',
             },
             'SEGMENTATION': {
-            
+                # Processing directories
+                'audio_jobs_dir' : f'{process_dir}/transcriber/jobs/',
             },
             'TRANSCRIPTION': {
                 # I/O paths
@@ -74,6 +84,9 @@ class Header:
                 # I/O paths
                 'input_path': f'{work_dir}/transcript.txt',
                 'output_path': f'{work_dir}/compressed.txt',
+
+                # Code directory
+                # 'useless_sentences': f'{code_dir}/compressor/useless_sentences.txt',
 
                 # Processing directories
                 'stages_dir' : f'{process_dir}/compressor/stages/',
