@@ -30,11 +30,5 @@ if __name__ == "__main__":
     # Download the video file to the "input/" directory
     source_file = download_from_youtube(url, input_dir)
 
-    # Create the workspace
-    ws = workspace(source_file)
-
-    # ...
-
-
 # Reference: https://www.freecodecamp.org/news/python-program-to-download-youtube-videos/
 
