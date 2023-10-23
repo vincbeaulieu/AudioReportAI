@@ -8,32 +8,49 @@ Harness the power of advanced language processing to transcribe, condense, and s
   
 ### Features:  
   
-* 🎙️ **Swift Audio Transcription:** Efficiently convert any audio content into a clear and accurate transcript.  
-* 🗂️ **Smart Summarization:** Transform detailed transcripts into compact summaries, highlighting only the essential information.  
-* 🎬 **Diverse Audio Support:** Suitable for meetings, class recordings, webinars, movies, YouTube videos, and much more.  
-* 🔗 **Integrated Workflows:** Seamlessly integrate with a range of open-source models to optimize the transcription and summarization processes.  
-* 🧠 **Diverse Model Support:** Support for Meta’s LLaMa, Facebook/bart-large-cnn, OpenAI GPT, OpenAI Whisper, Hugging GPT, Hugging Face, GPT-J, and much more!  
-* 🛠️ **Tech Stack:** Primarily built on Python, utilizing libraries and frameworks such as scikit-learn, tensorflow, pandas, matplotlib, and numpy.  
-  
+* 🎙️ **Swift Audio Transcription:**
+  Efficiently convert any audio content into a clear and accurate transcript.
+    
+* 🗂️ **Smart Summarization:**
+  Transform detailed transcripts into compact summaries, highlighting only the essential information.
+    
+* 🎬 **Diverse Audio Support:**
+  Suitable for meetings, class recordings, webinars, movies, YouTube videos, and much more.
+    
+* 🔗 **Integrated Workflows:**
+  Seamlessly integrate with a range of open-source models to optimize the transcription and summarization processes.
+    
+* 🧠 **Diverse Model Support:**
+  Support for Meta’s LLaMa, Facebook/bart-large-cnn, OpenAI GPT, OpenAI Whisper, Hugging GPT, Hugging Face, GPT-J, and much more!
+    
+* 🛠️ **Tech Stack:**
+  Primarily built on Python, utilizing libraries and frameworks such as scikit-learn, tensorflow, pandas, matplotlib, and numpy.
+
+
 ## 🚀 Getting Started: Execution Guide
 Follow these easy steps to get AudioReportAI up and running:
-
-1. 📁 **Prepare Your Files:**  
+  
+1. 📍 **Navigate to the Project Directory:**  
+After cloning the repository, open a terminal and navigate to the AudioReportAI directory:  
+`cd path/to/AudioReportAI`  
+*<sub>\* Replace "path/to/AudioReportAI" with the actual path to the cloned repository on your machine.</sub>*  
+  
+2. 📁 **Prepare Your Files:**  
 Place your desired video or audio file into the ***"input/"*** directory.  
   
-2. 🌍 **Set Up Virtual Environment:**  
+3. 🌍 **Set Up Virtual Environment:**  
 If you haven't already, create a Python virtual environment:  
 `python3.9.7 -m venv .venv`  
   
-3. 🌱 **Activate the Environment:**  
+4. 🌱 **Activate the Environment:**  
 To activate your virtual environment:  
 `source .venv/bin/activate`  
   
-4. 🔧 **Install Dependencies:**  
+5. 🔧 **Install Dependencies:**  
 Ensure you've installed all necessary packages:  
 `pip install -r requirements.txt`  
   
-5. 🎉 **Run the Program:**   
+6. 🎉 **Run the Program:**   
 Now, execute the main code:  
 `python -m code.main`  
     
