@@ -35,20 +35,20 @@ After cloning the repository, open a terminal and navigate to the AudioReportAI 
 `cd path/to/AudioReportAI`  
 *<sub>\* Replace "path/to/AudioReportAI" with the actual path to the cloned repository on your machine.</sub>*  
   
-2. 📁 **Prepare Your Files:**  
-Place your desired video or audio file into the ***"input/"*** directory.  
-  
-3. 🌍 **Set Up Virtual Environment:**  
+2. 🌍 **Set Up Virtual Environment:**  
 If you haven't already, create a Python virtual environment:  
 `python3.9.7 -m venv .venv`  
   
-4. 🌱 **Activate the Environment:**  
+3. 🌱 **Activate the Environment:**  
 To activate your virtual environment:  
 `source .venv/bin/activate`  
   
-5. 🔧 **Install Dependencies:**  
+4. 🔧 **Install Dependencies:**  
 Ensure you've installed all necessary packages:  
 `pip install -r requirements.txt`  
+  
+5. 📁 **Prepare Your Files:**  
+Place your desired video or audio file into the ***"input/"*** directory.
   
 6. 🎉 **Run the Program:**   
 Now, execute the main code:  
