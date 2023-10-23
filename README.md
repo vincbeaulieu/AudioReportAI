@@ -15,7 +15,7 @@ Harness the power of advanced language processing to transcribe, condense, and s
 * 🧠 **Diverse Model Support:** Support for Meta’s LLaMa, Facebook/bart-large-cnn, OpenAI GPT, OpenAI Whisper, Hugging GPT, Hugging Face, GPT-J, and much more!  
 * 🛠️ **Tech Stack:** Primarily built on Python, utilizing libraries and frameworks such as scikit-learn, tensorflow, pandas, matplotlib, and numpy.  
   
-### 🚀 Getting Started: Execution Guide
+## 🚀 Getting Started: Execution Guide
 Follow these easy steps to get AudioReportAI up and running:
 
 1. 📁 **Prepare Your Files:**  
