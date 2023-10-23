@@ -39,7 +39,7 @@ Now, execute the main code:
     
 Enjoy the seamless audio transcription and summarization!
   
-## 💸 Funding:  
+## ❤️ Funding:  
 🚀 Propel the future of smart audio transcription and summarization! Support the development of AudioReportAI on Patreon and be a catalyst in the AI revolution. Every bit counts towards a smarter tomorrow. Your contribution will help accelerate research, foster innovations, and ensure the continuous enhancement of this project!
   
 **patreon**: [vincbeaulieu](https://www.patreon.com/vincbeaulieu)  
