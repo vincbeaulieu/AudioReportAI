@@ -5,11 +5,11 @@ Harness the power of advanced language processing to transcribe, condense, and s
   
 ### AudioReportAI: Automated Audio Transcription & Summarization
 
-With Swift Audio Transcription, AudioReportAI efficiently converts any audio content into clear and accurate transcripts. The Smart Summarization feature takes these detailed transcripts and transforms them into compact summaries that highlight only the essential information. The platform boasts Diverse Audio Support, making it suitable for everything from business meetings to class recordings, webinars, movies, YouTube videos, and much more! Thanks to its Integrated Workflows, users can seamlessly work with a range of open-source models, optimizing both the transcription and summarization processes. Furthermore, the system offers Diverse Model Support, including but not limited to Meta’s LLaMa, Facebook/bart-large-cnn, OpenAI GPT, OpenAI Whisper, Hugging GPT, Hugging Face, and GPT-J. Lastly, the core Tech Stack of AudioReportAI is primarily built on Python, leveraging powerful libraries and frameworks like scikit-learn, tensorflow, pandas, matplotlib, and numpy.
+With Whisper Audio Transcription, AudioReportAI efficiently converts any audio content into clear and accurate transcripts. The Smart Summarization feature takes these detailed transcripts and transforms them into compact summaries that highlight only the essential information. The platform boasts Diverse Audio Support, making it suitable for everything from business meetings to class recordings, webinars, movies, YouTube videos, and much more! Thanks to its Integrated Workflows, users can seamlessly work with a range of open-source models, optimizing both the transcription and summarization processes. Furthermore, the system offers Diverse Model Support, including but not limited to Meta’s LLaMa, Facebook/bart-large-cnn, OpenAI GPT, OpenAI Whisper, Hugging GPT, Hugging Face, and GPT-J. Lastly, the core Tech Stack of AudioReportAI is primarily built on Python, leveraging powerful libraries and frameworks like scikit-learn, tensorflow, pandas, matplotlib, and numpy.
   
 ### Features:  
   
-* 🎙️ **Swift Audio Transcription:**
+* 🎙️ **Whisper Audio Transcription:**
   Efficiently convert any audio content into a clear and accurate transcript.
     
 * 🗂️ **Smart Summarization:**
