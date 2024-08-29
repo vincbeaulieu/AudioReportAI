@@ -1,4 +1,5 @@
-# AudioReportAI  
+# Automation of Engineering Reports and Business Processes
+## AudioReportAI  
 
 Harness the power of advanced language processing to transcribe, condense, and summarize lengthy audio recordings from group meetings, classes, webinars, movies, YouTube videos, and much more! This repository offers an open-source solution for effectively converting extensive audio content into concise and informative textual summaries.
   
