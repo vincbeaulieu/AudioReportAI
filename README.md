@@ -64,4 +64,4 @@ Enjoy the seamless audio transcription and summarization!
 **ko_fi**: [vincbeaulieu](https://ko-fi.com/vincbeaulieu)
 
 ## 🤖 Disclaimer
-The README and the "About" section were both AI "generated" with the help of GPT-2. The code, development, workspace organisation, were all made by me (a human powered by Stack Overflow threads).
+The README and the "About" section were both AI "generated" with the help of GPT-2 and GPT-J (GPT-3). The code, development, workspace organisation, were all made by me (a human powered by Stack Overflow threads).
